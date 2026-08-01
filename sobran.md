@@ -4,8 +4,6 @@ permalink: /
 layout: default
 ---
 
-# Anything called a ‘program’ is unconstitutional
-
 By Joe Sobran
 
 - Confessions of a reactionary utopian
